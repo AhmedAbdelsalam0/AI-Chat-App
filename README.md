@@ -1,1 +1,1 @@
-# AI-Chat-App
+# This is a simple chat app project using JADE
